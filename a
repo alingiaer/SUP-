@@ -20,9 +20,9 @@ local library = {
     ended = {},
     colors = {},
     folders = {
-        main = "Linux",
-        assets = "Linux/assets",
-        configs = "Linux/configs"
+        main = "rimihook",
+        assets = "rimihook/assets",
+        configs = "rimihook/configs"
     },
     shared = {
         initialized = false,
